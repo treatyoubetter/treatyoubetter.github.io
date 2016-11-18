@@ -16,11 +16,8 @@
   }
   .project{
     background-color:#F5DEB3;
-    color:white;
+    color:#87CEEB;
   }
-.content{
-  background-color:#87CEEB;
-}
   .center-content{
     width:500px;
     margin:150px auto 0px;

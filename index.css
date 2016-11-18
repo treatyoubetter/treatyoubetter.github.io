@@ -16,7 +16,7 @@
   }
   .project{
     background-color:#F5DEB3;
-    color:#87CEEB;
+    color:white;
   }
   .center-content{
     width:500px;
@@ -75,7 +75,7 @@
     margin: 5px 0px 20px;
   }
   .project a{
-    color:#5F71B0;
+    color:#F5DEB3;
     text-decoration:none;
   }
   .list-link{

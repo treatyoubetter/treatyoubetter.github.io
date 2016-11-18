@@ -18,13 +18,16 @@
     background-color:#F5DEB3;
     color:white;
   }
+.content{
+  background-color:#87CEEB;
+}
   .center-content{
     width:500px;
     margin:150px auto 0px;
     padding:0px 0px 20px 0px;
     height: auto;
     border-radius:5px;
-    background-color:#87CEEB;
+    background-color:#fff;
     position:relative;
   }
   .profile-picture{

@@ -5,7 +5,7 @@
     width:100%;
   }
   body{
-    background-color:#fff;
+    background-color:#87CEEB;
     background-image:url(background.jpg);
     background-repeat:no-repeat;
     background-size:cover;
@@ -15,7 +15,7 @@
     overflow-y:scroll;
   }
   .project{
-    background-color:purple;
+    background-color:#F5DEB3;
     color:white;
   }
   .center-content{
